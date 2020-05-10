@@ -2,11 +2,13 @@
 A React Native App that collects all the things I look at - weather, news, soccer stats (Barcelona), commute time, etc. - and puts them into one place for convience and simplicity.
 
 
+
 Why I built it:
 
 To save time and get all my information at a glance
 
 To practice my React Native Skills
+
 
 
 To Do:
