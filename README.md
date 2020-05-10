@@ -4,7 +4,9 @@ A React Native App that collects all the things I look at - weather, news, socce
 
 
 Why I built it:
+
 To save time and get all my information at a glance
+
 To practice my React Native Skills
 
 
